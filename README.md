@@ -62,7 +62,7 @@ Note que a quantidade de likes deve sempre ser zero no momento de criação.
 
 Agora você pode acessar [`localhost:3333`](http://localhost:3333) do seu navegador.
 
-  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ignite%20-%20Nodejs%20-%20Challenge%2002&uri=https://github.com/IamThiago-IT/corrigindo-o-codigo/blob/main/.github/Insomnia)
+  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ignite%20-%20Nodejs%20-%20Challenge%2003&uri=https://github.com/IamThiago-IT/corrigindo-o-codigo/blob/main/.github/Insomnia)
 
 ## 📄 Licença
 
